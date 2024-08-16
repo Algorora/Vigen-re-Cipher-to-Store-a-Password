@@ -23,7 +23,7 @@ This project aims to illustrate the Vigenère cipher's encryption and decryption
 ## Clone the Repository
 
 ```sh
-https://github.com/Algorora/Vigenere-Cipher-to-Store-a-Password.git
+git clone https://github.com/Algorora/Vigenere-Cipher-to-Store-a-Password.git
 cd vigenere-cipher
 ```
 
