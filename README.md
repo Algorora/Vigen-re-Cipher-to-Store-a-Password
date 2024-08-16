@@ -10,13 +10,13 @@ This project aims to illustrate the Vigenère cipher's encryption and decryption
 
 ## Encryption:
 
--Uses a keyword to determine the shift for each letter in the plaintext.
--Converts each letter of the plaintext and keyword to their respective positions in the alphabet.
--Encrypts by shifting the plaintext letter according to the keyword letter.
+Uses a keyword to determine the shift for each letter in the plaintext.
+Converts each letter of the plaintext and keyword to their respective positions in the alphabet.
+Encrypts by shifting the plaintext letter according to the keyword letter.
 ## Decryption:
 
--Uses the same keyword to reverse the encryption process.
--Converts the ciphertext back to plaintext using the keyword.
+Uses the same keyword to reverse the encryption process.
+Converts the ciphertext back to plaintext using the keyword.
 
 # How to Run
 
